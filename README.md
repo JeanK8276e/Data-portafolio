@@ -38,5 +38,5 @@ Para la obtención de datos se utilizan herramientas y plataformas abiertas, fac
 - [ ] Desarrollo de cálculos (Rendimientos, Volatilidad/Desviación Estándar).
 - [ ] Conclusiones y visualización de datos.
 
-### 🔮 Próximas Fases (Largo Plazo)
+###  Próximas Fases (Largo Plazo)
 * [ ] **Análisis de Desviación:** Implementar una comparativa entre las proyecciones realizadas y el comportamiento real del mercado a lo largo del tiempo, evaluando el nivel de certeza y margen de error del análisis histórico.
